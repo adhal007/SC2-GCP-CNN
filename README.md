@@ -15,3 +15,10 @@
 1. Ensure Python is in the path of command prompt for windows, For linux users configure the .bashrc script to add python to path, similar for mac users <br/>
 2. Go to directory where the ```task.py``` file is located. </br>
 3. Run ``` python task.py --model-name "myCNNModel" --model-dir "C:/Users/..." --batch-size 25 --test-split 0.3 --seed 42 --increment 25 ```
+
+## Running on Google Colab:
+1. Navigate to Colab-files and initiate and setup Google Colab from that script
+2. Run the script for finalCNN.py in colab
+
+## Graphs for CNN network
+Navigate to CNN_tex folder. Use the tex and .sty files to graph the Custom CNN network
